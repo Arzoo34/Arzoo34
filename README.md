@@ -19,13 +19,15 @@ I’m a **detail-oriented and highly motivated Computer Science student** passio
 
 ---
 
+## 🤝 Connect With Me
+
 <p align="left">
 <a href="mailto:arzoodhoundiyal31@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40"/>
 </a>
 
 <a href="https://www.linkedin.com/in/arzoo31/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="40"/>
 </a>
 
 <a href="https://github.com/Arzoo34" target="_blank">
