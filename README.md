@@ -19,12 +19,18 @@ I’m a **detail-oriented and highly motivated Computer Science student** passio
 
 ---
 
-## 🤝 Connect With Me
 <p align="left">
-<a href="mailto:arzoodhoundiyal31@gmail.com">
+<a href="mailto:arzoodhoundiyal31@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40"/>
 </a>
-<!-- Add LinkedIn later if you want -->
+
+<a href="https://www.linkedin.com/in/arzoo31/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+<a href="https://github.com/Arzoo34" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="30" width="40"/>
+</a>
 </p>
 
 ---
@@ -89,26 +95,26 @@ I’m a **detail-oriented and highly motivated Computer Science student** passio
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Arzoo34&show_icons=true&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arzoo34&theme=radical"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arzoo34&layout=compact&theme=radical"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Arzoo34&theme=radical&no-frame=true&margin-w=15"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Arzoo34/Arzoo34/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
