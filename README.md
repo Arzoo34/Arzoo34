@@ -8,7 +8,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 🎓 **B.Tech CSE (AI & Data Science)** @ Graphic Era Hill University  
 📍 **Dehradun, India**  
 
@@ -19,7 +19,7 @@ I’m a **detail-oriented and highly motivated Computer Science student** passio
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="left">
 <a href="mailto:arzoodhoundiyal31@gmail.com" target="_blank">
@@ -39,7 +39,7 @@ I’m a **detail-oriented and highly motivated Computer Science student** passio
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -47,7 +47,7 @@ I’m a **detail-oriented and highly motivated Computer Science student** passio
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 </p>
 
-### 📊 Data & Analytics
+###  Data & Analytics
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
@@ -56,7 +56,7 @@ I’m a **detail-oriented and highly motivated Computer Science student** passio
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 </p>
 
-### ☁️ Big Data & Cloud
+###  Big Data & Cloud
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
@@ -72,9 +72,9 @@ I’m a **detail-oriented and highly motivated Computer Science student** passio
 
 ---
 
-## 📜 Certifications & Learning
+##  Certifications & Learning
 
-### 🟡 Google Data Analytics Professional Certificate
+###  Google Data Analytics Professional Certificate
 ✔ Foundations: Data, Data, Data Everywhere  
 ✔ Ask Questions to Make Data-Driven Decisions  
 ✔ Prepare Data for Exploration  
@@ -83,10 +83,10 @@ I’m a **detail-oriented and highly motivated Computer Science student** passio
 ✔ Share Data Through the Art of Visualization  
 ✔ Data Analysis with R Programming*
 
-### 📘 Additional Certifications
+###  Additional Certifications
 ✔ **MongoDB: The Complete Guide to NoSQL Database Development**
 
-💡 These strengthened my skills in:
+ These strengthened my skills in:
 - data cleaning & preprocessing  
 - exploratory data analysis (EDA)  
 - statistical reasoning  
@@ -95,31 +95,6 @@ I’m a **detail-oriented and highly motivated Computer Science student** passio
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Arzoo34&show_icons=true&theme=radical"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arzoo34&theme=radical"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arzoo34&layout=compact&theme=radical"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Arzoo34&theme=radical&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/Arzoo34/Arzoo34/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
 
 <p align="center">
 ✨ <i>“Turning data into decisions, and ideas into impact.”</i> ✨
