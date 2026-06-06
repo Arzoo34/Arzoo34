@@ -14,8 +14,6 @@ I’m a **detail-oriented and highly motivated Computer Science student** passio
 - building **scalable, data-driven solutions**
 - solving **real-world problems using AI & analytics**
 
----
-
 ##  Connect With Me
 
 <p align="left">
@@ -31,9 +29,6 @@ I’m a **detail-oriented and highly motivated Computer Science student** passio
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="30" width="40"/>
 </a>
 </p>
-
----
-
 ## 🛠️ Technical Skills
 
 ### Programming Languages
