@@ -5,9 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7C843&size=22&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Arzoo;B.Tech+CSE+(AI+%26+Data+Science);Aspiring+Data+Scientist+%26+Software+Engineer;Turning+Data+Into+Insights;Learning+%26+Building+Every+Day">
 </p>
-
----
-
 ## About Me
 🎓 **B.Tech CSE (AI & Data Science)** @ Graphic Era Hill University  
 📍 **Dehradun, India**  
