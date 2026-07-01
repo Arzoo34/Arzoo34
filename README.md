@@ -227,7 +227,6 @@
         <h3 style="color:#F59E0B; margin-top:0;">Diabetes Prediction · Healthcare AI</h3>
         <p>Explainable ML pipeline for early risk detection with SHAP interpretability.</p>
         <p><strong>Tech:</strong> Scikit‑Learn, XGBoost, Streamlit</p>
-        <a href="https://github.com/Arzoo34/diabetes-prediction"><img src="https://img.shields.io/badge/GitHub-Repo-4E342E?style=for-the-badge&logo=github&logoColor=FFF8E8&labelColor=F59E0B" /></a>
       </td>
     </tr>
     <!-- Highlighted project: Agentic AI for Bharat -->
