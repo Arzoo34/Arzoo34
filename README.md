@@ -372,7 +372,7 @@
   <!-- Custom ocean-colored timeline -->
   <table style="width:85%; max-width:800px; text-align:left; color:#115E59;">
     <tr>
-      <td style="padding:12px 16px; border-left:4px solid #0D9488;">📘 <strong>Year 1</strong> — Built strong foundations in C/C++, DSA, and problem‑solving (500+ LeetCode)</td>
+      <td style="padding:12px 16px; border-left:4px solid #0D9488;">📘 <strong>Year 1</strong> — Built strong foundations in C/C++, DSA, and problem‑solving </td>
     </tr>
     <tr>
       <td style="padding:12px 16px; border-left:4px solid #0D9488;">📗 <strong>Year 2</strong> — Explored AI/ML, data analytics, and earned Google Data Analytics Certificate</td>
