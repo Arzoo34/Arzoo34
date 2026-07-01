@@ -318,13 +318,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arzoo34&bg_color=FFF8E8&color=4E342E&line=F59E0B&point=F59E0B&area=true&hide_border=true&radius=16" width="90%" />
   <br/><br/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arzoo34/Arzoo34/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arzoo34/Arzoo34/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arzoo34/Arzoo34/output/github-contribution-grid-snake.svg" width="80%">
-  </picture>
-  <br/><br/>
-
   <img src="https://github-profile-trophy.vercel.app/?username=Arzoo34&theme=flat&no-frame=true&margin-w=8&column=7&title_color=F59E0B&icon_color=F59E0B&text_color=4E342E&bg_color=FFF8E8" width="90%" />
 </div>
 
