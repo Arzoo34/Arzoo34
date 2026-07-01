@@ -71,7 +71,7 @@
         <h3 style="color:#F59E0B; margin-top:0;">🎓 Education</h3>
         <p style="font-weight:600; margin:4px 0;">B.Tech CSE (AI & Data Science)</p>
         <p style="margin:4px 0;">Graphic Era Hill University, Dehradun</p>
-        <p style="margin:4px 0;">CGPA 9+ · India</p>
+        <p style="margin:4px 0;">CGPA 8.63 · India</p>
         <br/>
         <h3 style="color:#F59E0B;">📌 Currently Learning</h3>
         <ul style="list-style-type:none; padding-left:0; text-align:left; display:inline-block;">
