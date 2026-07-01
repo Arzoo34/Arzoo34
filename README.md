@@ -1,6 +1,6 @@
 <!--
   ╔══════════════════════════════════════════════════════════╗
-  ║  ARZOO — AI ENGINEER · PORTFOLIO · CRAFTED WITH ❤️     ║
+  ║   ARZOO — AI ENGINEER · PORTFOLIO · CRAFTED WITH ❤️    ║
   ╚══════════════════════════════════════════════════════════╝
   🎨 Theme: Cream · Orange · Dark Brown · Ocean Teal
   🔗 arzoodhoundiyal31@gmail.com | linkedin.com/in/arzoo31 | github.com/Arzoo34
@@ -34,22 +34,21 @@
 <br/>
 <br/>
 
-<!-- Custom hand-drawn divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════ WHO AM I (minimalist statement) ═══════════ -->
+<!-- ═══════════ WHO AM I ═══════════ -->
 <div align="center">
-  <h2 style="color:#F59E0B; margin:0;">✦ Who Am I ✦</h2>
+  <h2 style="color:#F59E0B;">✦ Who Am I ✦</h2>
   <p style="color:#4E342E; font-size:1.2em; max-width:600px; margin: 16px auto; line-height:1.6;">
-    🎓 <strong>B.Tech CSE (AI & Data Science)</strong> at Graphic Era Hill University, Dehradun<br/>
-    🤖 <strong>AI Engineer</strong> — Agentic AI, Computer Vision, Data Engineering<br/>
-    🔬 <strong>Research Intern @ IIT Roorkee</strong> · <strong>Hackathon Runner‑Up</strong> (Graphethon 3.0)<br/>
-    💡 <strong>500+ LeetCode</strong> · <strong>Google Data Analytics Certified</strong><br/>
-    🌍 Building scalable, data‑driven products for <strong>Bharat</strong>
+    🎓 B.Tech CSE (AI & Data Science) — Graphic Era Hill University, Dehradun<br/>
+    🤖 AI Engineer — Agentic AI, Computer Vision, Data Engineering<br/>
+    🔬 Research Intern @ IIT Roorkee · Hackathon Runner‑Up (Graphethon 3.0)<br/>
+    💡 500+ LeetCode · Google Data Analytics Certified<br/>
+    🌍 Building scalable products for Bharat
   </p>
 </div>
 
@@ -61,27 +60,25 @@
 
 <br/>
 
-<!-- ═══════════ CURRENT FOCUS (interactive cards) ═══════════ -->
+<!-- ═══════════ CURRENT FOCUS ═══════════ -->
 <h2 align="center" style="color:#F59E0B;">🔭 Current Focus</h2>
 
 <div align="center">
-  <table style="width:90%; max-width:1000px; margin:0 auto; border-spacing:24px;">
+  <table bgcolor="#FFF8E8" style="width:90%; max-width:1000px; margin:0 auto; border-spacing:20px;">
     <tr>
-      <td style="background:#EADBC8; border-radius:24px; padding:32px; color:#4E342E; vertical-align:top; box-shadow:0 6px 18px rgba(0,0,0,0.06); border:1px solid #F59E0B;">
-        <h3 style="color:#F59E0B; margin:0 0 12px;">🏗️ Building</h3>
-        <p><strong>Agentic AI for Bharat</strong> — multi‑agent platform for civic services</p>
-        <p><strong>Safemine AI</strong> — IoT smart helmet for mine safety</p>
+      <td bgcolor="#EADBC8" style="border-radius:16px; padding:24px; color:#4E342E; vertical-align:top;">
+        <h3>🏗️ Building</h3>
+        <p>Agentic AI for Bharat — multi‑agent platform for civic services</p>
+        <p>Safemine AI — IoT smart helmet for mine workers</p>
       </td>
-      <td style="background:#EADBC8; border-radius:24px; padding:32px; color:#4E342E; vertical-align:top; box-shadow:0 6px 18px rgba(0,0,0,0.06); border:1px solid #F59E0B;">
-        <h3 style="color:#F59E0B; margin:0 0 12px;">📚 Learning</h3>
+      <td bgcolor="#EADBC8" style="border-radius:16px; padding:24px; color:#4E342E; vertical-align:top;">
+        <h3>📚 Learning</h3>
         <p>MCP (Model Context Protocol)</p>
-        <p>Multi‑Agent Systems</p>
-        <p>Advanced RAG architectures</p>
+        <p>Multi‑Agent Systems & Advanced RAG</p>
       </td>
-      <td style="background:#EADBC8; border-radius:24px; padding:32px; color:#4E342E; vertical-align:top; box-shadow:0 6px 18px rgba(0,0,0,0.06); border:1px solid #F59E0B;">
-        <h3 style="color:#F59E0B; margin:0 0 12px;">📖 Reading</h3>
-        <p>Agentic workflows papers</p>
-        <p>LLM reasoning & scalable pipelines</p>
+      <td bgcolor="#EADBC8" style="border-radius:16px; padding:24px; color:#4E342E; vertical-align:top;">
+        <h3>📖 Reading</h3>
+        <p>Agentic workflows & LLM reasoning papers</p>
       </td>
     </tr>
   </table>
@@ -95,75 +92,158 @@
 
 <br/>
 
-<!-- ═══════════ FEATURED PROJECTS ═══════════ -->
+<!-- ═══════════ FEATURED PROJECTS (Complete Redesign) ═══════════ -->
 <h2 align="center" style="color:#F59E0B;">🚀 Featured Projects</h2>
 
+<!-- 🥇 STORE INTELLIGENCE - Premium Card -->
 <div align="center">
-
-  <!-- 🥇 Store Intelligence - large card -->
-  <a href="https://github.com/Arzoo34/store-intelligence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arzoo34&repo=store-intelligence&theme=calm&hide_border=true&bg_color=FFF8E8&title_color=F59E0B&icon_color=F59E0B&text_color=4E342E&border_radius=24" width="420" />
-  </a>
-  <br/>
-  <sub style="color:#4E342E; font-size:0.95em;">YOLOv8 · ByteTrack · PyTorch · FastAPI · Streamlit | Retail footfall heatmaps & real‑time analytics</sub>
-
-  <br/><br/>
-
-  <!-- 🥈 Agentic AI for Bharat -->
-  <a href="https://github.com/Arzoo34/agentic-ai-bharat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arzoo34&repo=agentic-ai-bharat&theme=calm&hide_border=true&bg_color=FFF8E8&title_color=F59E0B&icon_color=F59E0B&text_color=4E342E&border_radius=24" width="420" />
-  </a>
-  <br/>
-  <sub style="color:#4E342E; font-size:0.95em;">LangChain · CrewAI · Gemini · RAG · FAISS | Multi‑agent system for local governance & healthcare</sub>
-
-  <br/><br/>
-
-  <!-- 🥉 RidePulse -->
-  <a href="https://github.com/Arzoo34/ridepulse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arzoo34&repo=ridepulse&theme=calm&hide_border=true&bg_color=FFF8E8&title_color=F59E0B&icon_color=F59E0B&text_color=4E342E&border_radius=24" width="420" />
-  </a>
-  <br/>
-  <sub style="color:#4E342E; font-size:0.95em;">PySpark · Power BI · Weather Integration · ML | NYC taxi demand prediction pipeline</sub>
-
-  <br/><br/>
-
-  <!-- Other projects in a creative grid with custom cards -->
-  <table style="width:90%; max-width:900px; border-spacing:16px; margin:0 auto;">
+  <table bgcolor="#FFF8E8" style="width:80%; max-width:850px; margin: 0 auto; border: 2px solid #F59E0B; border-radius: 20px; border-collapse: separate; overflow:hidden;">
     <tr>
-      <td style="background:#EADBC8; border-radius:20px; padding:24px; color:#4E342E; box-shadow:0 4px 12px rgba(0,0,0,0.05); border:1px solid #F59E0B;">
-        <strong>📅 AI Interview Scheduler</strong><br/>
-        <sub>Graph coloring · Python · Streamlit</sub><br/>
-        <a href="https://github.com/Arzoo34/interview-scheduler">View Code →</a>
-      </td>
-      <td style="background:#EADBC8; border-radius:20px; padding:24px; color:#4E342E; box-shadow:0 4px 12px rgba(0,0,0,0.05); border:1px solid #F59E0B;">
-        <strong>🔍 Compiler Visualizer</strong><br/>
-        <sub>Lexical/Syntax/Semantic · D3.js · JS</sub><br/>
-        <a href="https://github.com/Arzoo34/compiler-visualizer">View Code →</a>
+      <td bgcolor="#F59E0B" style="padding:12px 24px; text-align:left; border-radius:20px 20px 0 0;">
+        <span style="color:#4E342E; font-size:1.4em; font-weight:bold;">🥇 Store Intelligence</span>
       </td>
     </tr>
     <tr>
-      <td style="background:#EADBC8; border-radius:20px; padding:24px; color:#4E342E; box-shadow:0 4px 12px rgba(0,0,0,0.05); border:1px solid #F59E0B;">
-        <strong>💻 Online Code Compiler</strong><br/>
-        <sub>Judge0 API · React · Docker · Multi‑language</sub><br/>
-        <a href="https://github.com/Arzoo34/online-compiler">View Code →</a>
+      <td bgcolor="#FFF8E8" style="padding:24px; color:#4E342E;">
+        <p><strong>🔍 Real‑time retail footfall analytics & heatmaps using Computer Vision.</strong></p>
+        <p><strong>Architecture Highlights:</strong></p>
+        <ul>
+          <li>YOLOv8 + ByteTrack for object detection & tracking</li>
+          <li>FastAPI backend serving inference</li>
+          <li>Streamlit dashboard with live heatmap overlays</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+          <img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=octocat&logoColor=white" />
+        </p>
+        <a href="https://github.com/Arzoo34/store-intelligence"><img src="https://img.shields.io/badge/GitHub-Repo-4E342E?style=for-the-badge&logo=github&logoColor=FFF8E8&labelColor=F59E0B" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Demo-Live-4E342E?style=for-the-badge&logo=vercel&logoColor=FFF8E8&labelColor=F59E0B" /></a>
       </td>
-      <td style="background:#EADBC8; border-radius:20px; padding:24px; color:#4E342E; box-shadow:0 4px 12px rgba(0,0,0,0.05); border:1px solid #F59E0B;">
+    </tr>
+  </table>
+  <br/><br/>
+
+  <!-- 🥈 AGENTIC AI FOR BHARAT -->
+  <table bgcolor="#FFF8E8" style="width:80%; max-width:850px; margin: 0 auto; border: 2px solid #F59E0B; border-radius: 20px; border-collapse: separate; overflow:hidden;">
+    <tr>
+      <td bgcolor="#F59E0B" style="padding:12px 24px; text-align:left; border-radius:20px 20px 0 0;">
+        <span style="color:#4E342E; font-size:1.4em; font-weight:bold;">🥈 Agentic AI for Bharat</span>
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="#FFF8E8" style="padding:24px; color:#4E342E;">
+        <p><strong>🧠 Multi‑agent system leveraging LLMs and RAG to solve local governance, healthcare, and education challenges in Indian languages.</strong></p>
+        <p><strong>Architecture Highlights:</strong></p>
+        <ul>
+          <li>CrewAI orchestrates specialised agents (Policy, Health, Education)</li>
+          <li>LangChain + Gemini for conversational retrieval</li>
+          <li>FAISS vector store for semantic search over government documents</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/LangChain-FF7300?style=flat-square&logo=chainlink&logoColor=white" />
+          <img src="https://img.shields.io/badge/CrewAI-3776AB?style=flat-square&logo=robotframework&logoColor=white" />
+          <img src="https://img.shields.io/badge/Gemini-8866FF?style=flat-square&logo=googlegemini&logoColor=white" />
+          <img src="https://img.shields.io/badge/FAISS-004F9E?style=flat-square&logo=meta&logoColor=white" />
+          <img src="https://img.shields.io/badge/RAG-333333?style=flat-square&logo=readthedocs&logoColor=white" />
+        </p>
+        <a href="https://github.com/Arzoo34/agentic-ai-bharat"><img src="https://img.shields.io/badge/GitHub-Repo-4E342E?style=for-the-badge&logo=github&logoColor=FFF8E8&labelColor=F59E0B" /></a>
+      </td>
+    </tr>
+  </table>
+  <br/><br/>
+
+  <!-- 🥉 RIDEPULSE -->
+  <table bgcolor="#FFF8E8" style="width:80%; max-width:850px; margin: 0 auto; border: 2px solid #F59E0B; border-radius: 20px; border-collapse: separate; overflow:hidden;">
+    <tr>
+      <td bgcolor="#F59E0B" style="padding:12px 24px; text-align:left; border-radius:20px 20px 0 0;">
+        <span style="color:#4E342E; font-size:1.4em; font-weight:bold;">🥉 RidePulse · NYC Taxi Analytics</span>
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="#FFF8E8" style="padding:24px; color:#4E342E;">
+        <p><strong>📊 Big‑data pipeline for demand prediction with weather integration and interactive Power BI dashboards.</strong></p>
+        <p><strong>Architecture Highlights:</strong></p>
+        <ul>
+          <li>PySpark for processing millions of taxi trips</li>
+          <li>Weather API integration to correlate demand with climate</li>
+          <li>Power BI dashboard for real‑time KPI tracking</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+          <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+          <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
+          <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+        </p>
+        <a href="https://github.com/Arzoo34/ridepulse"><img src="https://img.shields.io/badge/GitHub-Repo-4E342E?style=for-the-badge&logo=github&logoColor=FFF8E8&labelColor=F59E0B" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Demo-Live-4E342E?style=for-the-badge&logo=tableau&logoColor=FFF8E8&labelColor=F59E0B" /></a>
+      </td>
+    </tr>
+  </table>
+
+  <br/><br/>
+
+  <!-- OTHER PROJECTS – Compact elegant grid -->
+  <h3 align="center" style="color:#F59E0B;">📌 More Innovations</h3>
+  <table style="width:85%; max-width:850px; margin:0 auto; border-spacing:16px;">
+    <tr>
+      <td bgcolor="#EADBC8" style="padding:20px; border-radius:16px; color:#4E342E;">
+        <strong>📅 AI Interview Scheduler</strong><br/>
+        <sub>Graph coloring algorithm for conflict‑free slot allocation.</sub><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NetworkX-333?style=flat-square" />
+        <a href="https://github.com/Arzoo34/interview-scheduler" style="display:block; margin-top:8px;">Repo →</a>
+      </td>
+      <td bgcolor="#EADBC8" style="padding:20px; border-radius:16px; color:#4E342E;">
+        <strong>🔍 Compiler Visualizer</strong><br/>
+        <sub>Step‑by‑step lexical, syntax & semantic analysis with intermediate code generation.</sub><br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square" />
+        <a href="https://github.com/Arzoo34/compiler-visualizer" style="display:block; margin-top:8px;">Repo →</a>
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="#EADBC8" style="padding:20px; border-radius:16px; color:#4E342E;">
+        <strong>💻 Online Code Compiler</strong><br/>
+        <sub>Multi‑language execution with Judge0 API & complexity analysis.</sub><br/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <a href="https://github.com/Arzoo34/online-compiler" style="display:block; margin-top:8px;">Repo →</a>
+      </td>
+      <td bgcolor="#EADBC8" style="padding:20px; border-radius:16px; color:#4E342E;">
         <strong>🏥 Diabetes Prediction</strong><br/>
-        <sub>Scikit‑Learn · XGBoost · SHAP · Streamlit</sub><br/>
-        <a href="https://github.com/Arzoo34/diabetes-prediction">View Code →</a>
+        <sub>Explainable ML pipeline with SHAP interpretability for healthcare.</sub><br/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/XGBoost-005FAD?style=flat-square" />
+        <a href="https://github.com/Arzoo34/diabetes-prediction" style="display:block; margin-top:8px;">Repo →</a>
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- Safemine AI -->
-  <div style="background:#EADBC8; border:2px solid #F59E0B; border-radius:24px; padding:28px; width:85%; max-width:700px; margin:0 auto;">
-    <h3 style="color:#F59E0B;">🪖 Safemine AI — IoT Smart Helmet</h3>
-    <p style="color:#4E342E;">Real‑time gas, temperature & vitals monitoring for mine workers using Arduino & Firebase.</p>
-    <a href="https://github.com/Arzoo34/safemine-ai"><img src="https://img.shields.io/badge/Repo-4E342E?style=for-the-badge&logo=github&logoColor=FFF8E8&labelColor=F59E0B" /></a>
-  </div>
-
+  <!-- 🪖 SAFEMINE AI -->
+  <table bgcolor="#FFF8E8" style="width:70%; max-width:700px; margin: 0 auto; border: 2px solid #F59E0B; border-radius: 20px; border-collapse: separate;">
+    <tr>
+      <td bgcolor="#F59E0B" style="padding:12px 24px; text-align:left; border-radius:20px 20px 0 0;">
+        <span style="color:#4E342E; font-size:1.3em; font-weight:bold;">🪖 Safemine AI — IoT Smart Helmet</span>
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="#FFF8E8" style="padding:24px; color:#4E342E;">
+        <p>Real‑time gas, temperature & vitals monitoring for mine workers using Arduino & Firebase.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+          <img src="https://img.shields.io/badge/MQ135-333?style=flat-square" />
+          <img src="https://img.shields.io/badge/ESP8266-43A047?style=flat-square" />
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        </p>
+        <a href="https://github.com/Arzoo34/safemine-ai"><img src="https://img.shields.io/badge/GitHub-Repo-4E342E?style=for-the-badge&logo=github&logoColor=FFF8E8&labelColor=F59E0B" /></a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -174,11 +254,11 @@
 
 <br/>
 
-<!-- ═══════════ TECH UNIVERSE (creative grouping) ═══════════ -->
+<!-- ═══════════ TECH UNIVERSE ═══════════ -->
 <h2 align="center" style="color:#F59E0B;">🌌 Tech Universe</h2>
 
 <div align="center">
-  <h3 style="color:#4E342E;">🧠 AI & Machine Learning</h3>
+  <h3>🧠 AI & Machine Learning</h3>
   <img src="https://img.shields.io/badge/PyTorch-4E342E?style=for-the-badge&logo=pytorch&logoColor=FFF8E8&labelColor=F59E0B" />
   <img src="https://img.shields.io/badge/TensorFlow-4E342E?style=for-the-badge&logo=tensorflow&logoColor=FFF8E8&labelColor=F59E0B" />
   <img src="https://img.shields.io/badge/LangChain-4E342E?style=for-the-badge&logo=chainlink&logoColor=FFF8E8&labelColor=F59E0B" />
@@ -190,7 +270,7 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-4E342E?style=for-the-badge&logo=scikit-learn&logoColor=FFF8E8&labelColor=F59E0B" />
   <br/><br/>
 
-  <h3 style="color:#4E342E;">💻 Languages & Backend</h3>
+  <h3>💻 Languages & Backend</h3>
   <img src="https://img.shields.io/badge/Python-4E342E?style=for-the-badge&logo=python&logoColor=FFF8E8&labelColor=F59E0B" />
   <img src="https://img.shields.io/badge/C++-4E342E?style=for-the-badge&logo=c%2B%2B&logoColor=FFF8E8&labelColor=F59E0B" />
   <img src="https://img.shields.io/badge/Java-4E342E?style=for-the-badge&logo=openjdk&logoColor=FFF8E8&labelColor=F59E0B" />
@@ -201,7 +281,7 @@
   <img src="https://img.shields.io/badge/Node.js-4E342E?style=for-the-badge&logo=node.js&logoColor=FFF8E8&labelColor=F59E0B" />
   <br/><br/>
 
-  <h3 style="color:#4E342E;">☁️ Big Data & DevOps</h3>
+  <h3>☁️ Big Data & DevOps</h3>
   <img src="https://img.shields.io/badge/PySpark-4E342E?style=for-the-badge&logo=apachespark&logoColor=FFF8E8&labelColor=F59E0B" />
   <img src="https://img.shields.io/badge/Hadoop-4E342E?style=for-the-badge&logo=apachehadoop&logoColor=FFF8E8&labelColor=F59E0B" />
   <img src="https://img.shields.io/badge/Kafka-4E342E?style=for-the-badge&logo=apachekafka&logoColor=FFF8E8&labelColor=F59E0B" />
@@ -210,7 +290,7 @@
   <img src="https://img.shields.io/badge/Linux-4E342E?style=for-the-badge&logo=linux&logoColor=FFF8E8&labelColor=F59E0B" />
   <br/><br/>
 
-  <h3 style="color:#4E342E;">🗄️ Databases</h3>
+  <h3>🗄️ Databases</h3>
   <img src="https://img.shields.io/badge/PostgreSQL-4E342E?style=for-the-badge&logo=postgresql&logoColor=FFF8E8&labelColor=F59E0B" />
   <img src="https://img.shields.io/badge/MongoDB-4E342E?style=for-the-badge&logo=mongodb&logoColor=FFF8E8&labelColor=F59E0B" />
   <img src="https://img.shields.io/badge/MySQL-4E342E?style=for-the-badge&logo=mysql&logoColor=FFF8E8&labelColor=F59E0B" />
@@ -253,14 +333,13 @@
 
 <br/>
 
-<!-- ═══════════ ACHIEVEMENTS ROADMAP (interactive SVG timeline) ═══════════ -->
+<!-- ═══════════ ACHIEVEMENTS ROADMAP ═══════════ -->
 <h2 align="center" style="color:#F59E0B;">🏆 Journey & Milestones</h2>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arzoo34&theme=2077" width="90%" />
   <br/><br/>
-  <!-- Custom timeline using a table -->
-  <table style="width:85%; max-width:700px; text-align:left; margin:0 auto; border-spacing:0;">
+  <table style="width:85%; max-width:700px; text-align:left; margin:0 auto;">
     <tr>
       <td style="border-left:4px solid #F59E0B; padding-left:20px; padding-bottom:18px; color:#4E342E;">
         🔬 <strong>Research Intern @ IIT Roorkee</strong> (Deep Learning & CV)
@@ -278,12 +357,12 @@
     </tr>
     <tr>
       <td style="border-left:4px solid #F59E0B; padding-left:20px; padding-bottom:18px; color:#4E342E;">
-        ☁️ <strong>AWS Jam & Skill Builder</strong> — Cloud Practitioner Path
+        ☁️ <strong>AWS Jam & Skill Builder</strong>
       </td>
     </tr>
     <tr>
       <td style="border-left:4px solid #F59E0B; padding-left:20px; padding-bottom:18px; color:#4E342E;">
-        💻 <strong>500+ LeetCode Problems</strong> — Strong DSA Foundation
+        💻 <strong>500+ LeetCode Problems</strong>
       </td>
     </tr>
     <tr>
@@ -302,11 +381,11 @@
 
 <br/>
 
-<!-- ═══════════ ENGINEERING JOURNEY (vertical flow) ═══════════ -->
+<!-- ═══════════ ENGINEERING JOURNEY ═══════════ -->
 <h2 align="center" style="color:#F59E0B;">⚡ My Engineering Voyage</h2>
 
 <div align="center">
-  <p style="color:#4E342E; font-size:1.1em; line-height:1.8; max-width:600px; margin:0 auto;">
+  <p style="color:#4E342E; font-size:1.1em; line-height:1.8;">
     🟢 <strong>Started Programming</strong><br/>
     ⬇️<br/>
     💻 <strong>500+ LeetCode</strong><br/>
@@ -381,7 +460,7 @@
 
 <br/><br/>
 
-<!-- ═══════════ FOOTER (ocean wave representing B.Tech journey) ═══════════ -->
+<!-- ═══════════ FOOTER (Ocean wave) ═══════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15,17,23&height=220&section=footer&text=Turning%20data%20into%20decisions%2C%20and%20ideas%20into%20impact.&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
   <sub style="color:#4E342E; display:block; margin-top:-10px;">✦ Crafted with passion & relentless curiosity ✦</sub>
