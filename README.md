@@ -187,9 +187,6 @@
         <h3 style="color:#F59E0B; margin-top:0;">Store Intelligence</h3>
         <p>Retail analytics platform using YOLOv8 + ByteTrack for footfall heatmaps and real‑time insights.</p>
         <p><strong>Tech:</strong> PyTorch, FastAPI, Streamlit, Docker</p>
-        <a href="https://github.com/Arzoo34/store-intelligence"><img src="https://img.shields.io/badge/GitHub-Repo-4E342E?style=for-the-badge&logo=github&logoColor=FFF8E8&labelColor=F59E0B" /></a>
-        &nbsp;
-        <a href="#"><img src="https://img.shields.io/badge/Demo-Live-4E342E?style=for-the-badge&logo=vercel&logoColor=FFF8E8&labelColor=F59E0B" /></a>
       </td>
       <td style="background:#EADBC8; border-radius:24px; padding:28px; color:#4E342E; width:50%; vertical-align:top; box-shadow:0 4px 12px rgba(0,0,0,0.06); border:1px solid #F59E0B;">
         <h3 style="color:#F59E0B; margin-top:0;">RidePulse · NYC Taxi Analytics</h3>
