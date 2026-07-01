@@ -177,7 +177,7 @@
 <br/>
 
 <!-- ═══════════════ PROJECTS ═══════════════ -->
-<h2 align="center" style="color:#F59E0B;">🚀 Featured Projects</h2>
+<h2 align="center" style="color:#F59E0B;"> Featured Projects</h2>
 
 <div align="center">
   <table style="border-collapse:separate; border-spacing:24px; width:95%; max-width:1100px;">
