@@ -397,9 +397,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=FFF8E8&labelColor=EADBC8&color=F59E0B" />
   </a>
   &nbsp;
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=FFF8E8&labelColor=EADBC8&color=F59E0B" />
-  </a>
+
 </div>
 
 <br/><br/>
