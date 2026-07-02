@@ -14,7 +14,7 @@
 <br/>
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=F59E0B&center=true&vCenter=true&width=800&height=70&lines=Building+intelligent+systems+for+Bharat;Agentic+AI+%7C+LLMs+%7C+Computer+Vision;Data+Engineering+%7C+Distributed+Systems;500%2B+LeetCode+%7C+IIT+Roorkee+Research;Hackathon+Runner-Up+%7C+Open+Source+Contributor" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=F59E0B&center=true&vCenter=true&width=800&height=70&lines=;500%2B+LeetCode+%7C+IIT+Roorkee+Research;Hackathon+Runner-Up+%7C+Open+Source+Contributor" alt="Typing SVG" /></a>
 
 <br/>
 <br/>
