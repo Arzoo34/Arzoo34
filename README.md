@@ -23,7 +23,7 @@
 <a href="mailto:arzoodhoundiyal31@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFF8E8&labelColor=EADBC8&color=F59E0B" height="30"/></a>
 <a href="https://linkedin.com/in/arzoo31"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFF8E8&labelColor=EADBC8&color=F59E0B" height="30"/></a>
 <a href="https://github.com/Arzoo34"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=FFF8E8&labelColor=EADBC8&color=F59E0B" height="30"/></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=FFF8E8&labelColor=EADBC8&color=F59E0B" height="30"/></a>
+<a href="https://courageous-taffy-6b95da.netlify.app/arz00_portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=FFF8E8&labelColor=EADBC8&color=F59E0B" height="30"/></a>
 
 <br/><br/>
 
