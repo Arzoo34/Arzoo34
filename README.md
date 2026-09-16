@@ -54,8 +54,7 @@
 
 <br/>
 
-<!-- ═══════════ CURRENT FOCUS ═══════════ -->
-<h2 align="center" style="color:#F59E0B;">💡 Current Focus</h2>
+<!-- ═══════════ CURRENT FOCUS ═══════════ -
 
 <div align="center">
   <table bgcolor="#FFF8E8" style="width:90%; max-width:1000px; margin:0 auto; border-spacing:20px;">
