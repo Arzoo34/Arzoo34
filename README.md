@@ -79,11 +79,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</div>
 
-<br/>
 
 <!-- ═══════════ TECH UNIVERSE ═══════════ -->
 <h2 align="center" style="color:#F59E0B;">🌌 Tech Universe</h2>
