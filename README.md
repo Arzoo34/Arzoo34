@@ -53,34 +53,6 @@
 </div>
 
 <br/>
-
-<!-- ═══════════ CURRENT FOCUS ═══════════ -
-
-<div align="center">
-  <table bgcolor="#FFF8E8" style="width:90%; max-width:1000px; margin:0 auto; border-spacing:20px;">
-    <tr>
-      <td bgcolor="#EADBC8" style="border-radius:16px; padding:24px; color:#4E342E; vertical-align:top;">
-        <h3>🏗️ Building</h3>
-        <p>Agentic AI for Bharat — multi‑agent platform for civic services</p>
-        <p>Safemine AI — IoT smart helmet for mine workers</p>
-      </td>
-      <td bgcolor="#EADBC8" style="border-radius:16px; padding:24px; color:#4E342E; vertical-align:top;">
-        <h3>📚 Learning</h3>
-        <p>MCP (Model Context Protocol)</p>
-        <p>Multi‑Agent Systems & Advanced RAG</p>
-      </td>
-      <td bgcolor="#EADBC8" style="border-radius:16px; padding:24px; color:#4E342E; vertical-align:top;">
-        <h3>📖 Reading</h3>
-        <p>Agentic workflows & LLM reasoning papers</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-
-
 <!-- ═══════════ TECH UNIVERSE ═══════════ -->
 <h2 align="center" style="color:#F59E0B;">🌌 Tech Universe</h2>
 
