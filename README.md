@@ -41,7 +41,7 @@
     🎓 B.Tech CSE (AI & Data Science) — Graphic Era Hill University, Dehradun<br/>
     🤖 Focus Areas: Agentic AI, Computer Vision, Data Engineering<br/>
     🔬 Research Intern @ IIT Roorkee · Hackathon Runner‑Up (Graphethon 3.0)<br/>
-    💡 750+ DSA & SQL Solved across LeetCode & GFG· Google Data Analytics Certified<br/>
+    💡 Solved 750+ DSA & SQL problems across LeetCode, GeeksforGeeks· Google Data Analytics Certified<br/>
     🌍 Passionate about building scalable software solutions
   </p>
 </div>
